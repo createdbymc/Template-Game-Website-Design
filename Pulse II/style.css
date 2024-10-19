@@ -1,0 +1,138 @@
+
+
+* {
+  --primary-color: #870fff;
+}
+
+body, img {
+  color: #555; 
+  font-family: "Roboto", sans-serif;
+  border-radius: 3%;
+  overflow-x: hidden;
+}
+
+.navbar-brand {
+  font-size: 30px;
+  
+}
+
+.nav-link {
+  font-size: 18px !important;
+  font-weight: 500;
+}
+
+.head-section {
+ background-image: url(assets/gif.webp);
+ background-repeat: no-repeat;
+ background-size: cover;
+ align-items: center;
+ justify-content: center;
+}
+.head-section a {
+  color: #fff;
+}
+
+.head-section a img {
+ width: 9%;
+  
+}
+
+.hero-section .container {
+  color: #fff;
+}
+.hero-section .container img {
+  width: 100%;
+  height: auto;
+  border-radius: 3%;
+}
+
+
+.text-primary {
+  color: #870fff!important;
+  transition: color 0.5s ease;
+  
+  
+  
+ 
+}
+.text-primary:hover {
+  color: #a751fc!important;
+ 
+ 
+  
+  
+  
+}
+ 
+
+.nav-link {
+  transition: color 0.5s ease;
+}
+.nav-link:hover {
+  color: #a751fc;
+  
+}
+
+p {
+  font-size: 18px;
+}
+
+.btn-primary:hover {
+  background-color:#a751fc !important;
+  transition: background-color 0.9s ease !important;
+
+  
+}
+.btn-primary {
+ 
+  background-color:#870fff!important;
+  border: none;
+}
+
+.blue-bg {
+  background-color:#870fff;
+  color: #fff;
+}
+
+i {
+  color: #870fff;
+  background-color: #f2f2f2;
+  border-radius: 10%;
+  padding: 10px;
+  height: 2.30rem ;
+  width: 2.35rem;
+  margin-bottom: 12px;
+  position: relative;
+
+}
+
+i .fa-brands {
+ position: absolute;
+ width: 10%;
+}
+
+.nav-tabs {
+  border: none;
+}
+
+.nav-tabs .active {
+  background-color:  #a751fc!important;
+  border: none;
+  color: #fff !important;
+}
+
+.footer-section {
+  background-color:  #870fff !important;
+  border: none;
+  color: #fff !important;
+}
+
+.accordion button.accordion-button {
+  background-color:  #870fff !important;
+  border: none;
+  color: #fff !important;
+  
+}
+  
+ 
+  

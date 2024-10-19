@@ -1,0 +1,15 @@
+@media (max-width: 768px) {
+    .header-section {
+        position: relative;
+    }
+ 
+ 
+    .head-section a img {
+   
+     position: absolute;
+     top: 10%;
+     padding: 0%;
+     
+    }
+      
+    }
